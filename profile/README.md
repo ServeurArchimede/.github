@@ -2,7 +2,7 @@
 
 > Un serveur privé français du jeu Minecraft.
 
-[![Bannière Archimède](https://archimede.thomasbnt.dev/banner.png)](https://archimede.thomasbnt.dev)
+[![Bannière Archimède](https://archimede.thomasbnt.dev/banners05.png)](https://archimede.thomasbnt.dev)
 
 Un serveur Minecraft privée ajoutant quelques datapacks et des objectifs pour pimenter le jeu.
 
